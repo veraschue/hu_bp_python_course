@@ -24,9 +24,18 @@ principles and best practices of Python programming. Here is a list of
 things that we hope to teach you about:
 
 - Python basics
-- How to use Python (editors, debuggers, iPython,...) 
+  - Datatypes
+  - control flow
+- How to use Python 
+  - editors
+  - debuggers
+  - iPython
+  - notebook
+  - IDEs
 - Object orientation and advanced topics
-- Packages and modules
+  - Classes
+  - Exceptions
+  - Packages and modules
 - ...
 
 As we advance, we will focus on the great variety of scientific
