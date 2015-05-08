@@ -5,3 +5,5 @@ After you learned the basic principles of python programming yesterday, we will 
 - Python's really simple **package** system
 - Object Orientation
 - Common Pitfalls
+
+In the excercise you will implement a small module that uses the above concepts to model protein translation.
