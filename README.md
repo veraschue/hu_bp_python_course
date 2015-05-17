@@ -70,8 +70,7 @@ tools. The first of these is _git_. Git is a version control software
 that is incredibly useful to keep track of the changes you do to files
 in a project and to organize your work. However most people feel that
 it has a steep learning curve, which we would like to ease up for you.
-Before we start the course be sure to look into [this]() great
-practical introduction to git.
+Before we start the course be sure to look into [this](http://maryrosecook.com/blog/post/git-in-six-hundred-words) great introduction to git.
 
 In order to take part in the course you should *fork*
 ([more about forking](https://help.github.com/articles/fork-a-repo/))
