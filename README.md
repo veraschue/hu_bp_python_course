@@ -21,7 +21,7 @@ science.
 The course starts with a basic introduction into the language and its
 uses as a general programming language. We will present the basic
 principles and best practices of Python programming. Here is a list of
-things that we hope to teach you about:
+things that we hope to teach you:
 
 - Python basics
   - Datatypes
@@ -36,7 +36,6 @@ things that we hope to teach you about:
   - Classes
   - Exceptions
   - Packages and modules
-- ...
 
 As we advance, we will focus on the great variety of scientific
 packages existing for the Python language. In the lectures we will
@@ -46,23 +45,23 @@ Python in a scientific setting.
 For those who are already familiar with it here comes a list of
 packages that we will mention and use in the course:
 
-- numpy
+- numpy/scipy
 - matplotlib
 - pandas
-- ...
-
 
 ## Structure
 
 The course is split into two parts. During the first week we will
 introduce new concepts in alternating lectures and practical sessions
 which will built up a basic knowledge about the topic. In week two you
-will implement your own project with our support. We will propose a
-few to choose from that are designed to utilize most of the tools you
-learned in week one. However, you can also propose a project you would
-like to do and we will give you support if possible. In the end of the
-course you will present your project in a 15 minute presentation.
-
+will implement your own project with our support. The project will be a combined effort
+of the whole group and you will have to work as team to be successful.
+Our plan is to implement a highly simplified version of the 
+first [*Whole cell model*](https://github.com/CovertLab/WholeCell). This is a
+huge task, so we will probably not be finished after this week, but we can 
+have a lot of fun building a real project as a team. We have prepared make your start easier
+a framework of classes to use to make your start easier and we will try to
+introduce the topic already during week one.
 
 ## How to use this course
 
