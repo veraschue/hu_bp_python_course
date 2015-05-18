@@ -6,7 +6,7 @@ def guess_a_number():
 
     random_number = randint(0, 100)
  
-    guess = int(raw_input("Please enter an integer between 0 and 100: "))
+    guess = check_raw("Please enter an integer between 0 and 100: ")
     count_guesses = 1
     while guess != random_number:
         count_guesses = count_guesses + 1
@@ -24,10 +24,27 @@ def evaluate_my_number(guess, random_number):
     """Is the guess to high or to low? Guess again!"""
 
     if guess < random_number:
-        guess = int(raw_input("Too low! Please try again: "))
+        print 'Too low!',
+        guess = check_raw()
         return guess
     else:
-        guess = int(raw_input("Too high! Please try again: "))
+        print 'Too high!',
+        guess = check_raw()
         return guess
+
+
+def check_raw(print_string='Please try again: '):
+    """hkjg"""
+
+    try:
+        checked_int = int(raw_input(print_string))
+        if checked_int < 0 or checked_int > 100:
+            print 'Your number has to be between 0 and 100!',
+            checked_int = check_raw()
+    except ValueError:
+        print 'That was not an integer!',
+        checked_int = check_raw()
+
+    return checked_int
 
 guess_a_number()
