@@ -25,6 +25,7 @@ You will learn about:
 
 ## Exercises
 
+
 Now you have enough time to try what you learned in the introduction! Please do [these excercises](https://github.com/fugufisch/hu_bp_python_course/blob/master/02_introduction/exercise.md).
 
 
