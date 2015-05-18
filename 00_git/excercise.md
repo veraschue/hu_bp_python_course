@@ -16,4 +16,4 @@ HU Berlin
   ```
   you will get it formatted automatically on Github and many other places. Very handy!
 3. add this file to the repo and commit it.
-4. *(optional)* If you forked the repository previously you can now push it to your github accout.
+4. *(optional)* If you forked the repository previously you can now push it to your Github accout.
