@@ -1,4 +1,4 @@
-# Introduction
+# Introduction to Python
 
 Python (as in Monty Python’s Flying Circus) is fun! 
 Apart from that it is:
@@ -22,6 +22,10 @@ You will learn about:
 - functions, default values, and keyword arguments
 - comments and documentation
 - a bit of coding style
+
+## Exercises
+
+Now you have enough time to try what you learned in the introduction! Please do [these excercises](https://github.com/fugufisch/hu_bp_python_course/02_guess_a_number/exercise.md).
 
 
 ## For further reading and exercises, try:
