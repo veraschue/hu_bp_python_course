@@ -28,4 +28,4 @@ Think like a Git tutorial http://think-like-a-git.net/
 Pro Git book http://git-scm.com/book
 
 #### Watch:
-https://www.youtube.com/watch?v=ZDR433b0HJY
+[Introduction to Git with Scott Chacon of GitHub](https://www.youtube.com/watch?v=ZDR433b0HJY)
