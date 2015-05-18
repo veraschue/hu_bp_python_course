@@ -16,9 +16,9 @@ HU Berlin
     3. While writing the game from exercise 3, please commit it from time to time.
     4. Push your local commits to your remote repository.
 
-3. Programm your own game: Guess a number!
+3. Program your own game: Guess a number!
 
-    1. Use the file you created in exercise 2.1 to write your code in.
+    1. Use the file you created in exercise 2.1 to write your code in. You can test the file in IPython: `run your_filename.py`
     2. Write code, that generates a random number between 0 and 100 and asks the user for a guess of that number. If the first guess isn't right, it should give a hint and ask again. And so on.
     3. The programm should tell the user, how many times she/he had to guess.
     4. After a round of the game is finished, the user should be asked, if she/he wants to play again.
