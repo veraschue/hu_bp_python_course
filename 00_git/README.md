@@ -16,7 +16,7 @@ http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf
 https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
 
 #### Do:
-Code School - super simple git hub taster (you already did this one once - in the exercise) https://www.codeschool.com/courses/try-git
+Code School - super simple git hub taster https://www.codeschool.com/courses/try-git
 
 Another pretty simple runthrough http://pcottle.github.io/learnGitBranching
 
