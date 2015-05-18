@@ -7,7 +7,7 @@ Apart from that it is:
 - an interpreted language - Python code can be executed at the moment it is written. 
 
 
-This tutorial will explain Python mainly by example. It is build upon the official Python tutorial (http://docs.python.org/tutorial/) and can be considered a customized summary of the tutorial.
+This tutorial will explain Python mainly by example. It is build upon the official Python tutorial (http://docs.python.org/tutorial/) and can be considered a customized summary of this tutorial.
 
 
 You will learn about:
