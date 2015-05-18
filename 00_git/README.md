@@ -1,23 +1,14 @@
-# HAS TO BE CHANGED BEFORE USING IN OUR LECTURE!
+# Version Control with Git
 
-## Material for the git-lecture of the HU Python Course 2015
-
-### Slides:
-
-#### For theory:
-git_python_course.pptx
-
-#### and practice:
-git_practice.pdf
-
-Histories of the workflows will follow soon!
+# Introduction
 
 
-### Exercises:
-exercise.pdf
 
+# Excercise
 
-### Other useful stuff:
+Do [this excercise](https://github.com/fugufisch/hu_bp_python_course/00_git/exercise.md) to get your own copy of the course material.
+
+# Other useful stuff:
 
 #### Cheat:
 http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf
