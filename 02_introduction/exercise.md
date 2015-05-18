@@ -31,7 +31,7 @@ HU Berlin
        - `git remote add --track master upstream https://github.com/fugufisch/hu_bp_python_course.git`
        - `git fetch upstream`
        - `git merge upstream/master`
-       - `git push -u origin master`
+       - `git push origin master`
 
     2. If there is still time left, play with git! 
        - Add your guess_a_number to your neighbours repo (after you forked and cloned it) and issue a pull request.
