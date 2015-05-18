@@ -6,7 +6,7 @@
 
 # Excercise
 
-Do [this excercise](https://github.com/fugufisch/hu_bp_python_course/00_git/exercise.md) to get your own copy of the course material.
+Do [this excercise](https://github.com/fugufisch/hu_bp_python_course/blob/master/01_git/exercise.md) to get your own copy of the course material.
 
 # Other useful stuff:
 
