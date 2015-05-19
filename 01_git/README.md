@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In the beginning of the course we will start with a little [introduction](https://github.com/fugufisch/hu_bp_python_course/tree/master/01_git) to Git
+In the beginning of the course we will start with a little [introduction](https://github.com/fugufisch/hu_bp_python_course/blob/master/01_git/git_intro.md) to Git
 
 ## Excercise
 
