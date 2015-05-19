@@ -34,3 +34,5 @@ Now you have enough time to try what you learned in the introduction! Please do 
 - Python the Hard Way - excellent book and workshop http://learnpythonthehardway.org/
 - Open Tech School course http://python.opentechschool.org/#python-beginners
 
+In Berlin, you can also go to meetups to learn Python (and lots of other stuff). One good group to do so would be the [Open Tech School](http://www.meetup.com/opentechschool-berlin/)
+
